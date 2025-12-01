@@ -12,3 +12,10 @@
 - Create a footer
 - Create a Login Page
 - Install axios
+
+Body 
+    NavBar
+    Route=/            ==> Feed 
+    Route=/login       ==> Login
+    Route=/connection  ==> Connection
+    Route=/profile     ==> Profile
